@@ -1,19 +1,28 @@
 /* CSS files add styling rules to your content */
 
 body {
+  background-color: #CAF5FF;
   font-family: helvetica, arial, sans-serif;
   margin: 2em;
 }
 
 h1 {
-  font-style: italic;
-  color: #373fff;
+  font-family: 'courier new';
+  color: grey;
+  text-align:center;
 }
 
-/* img {
-  border: 1px solid #ddd;
-  border-radius: 4px;
-  padding: 5px;
-  width: 300px; /*
+h2 {
+  font-family:'verdana';
+  color: gray;
 }
-
+h3 {
+  font-family:'verdana';
+  color: gray;
+}
+p {
+  color: gray
+}
+ul {
+  color: gray
+}
